@@ -13,3 +13,5 @@ I am not liable for damages.
 This script compares the contents of a repo with the contents of a copy of the repo. This
 is to help find which commit in the repo matches the copy of the repo, when the copy of
 the repo doesn't have history information.
+
+Requires `git`.
