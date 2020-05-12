@@ -15,3 +15,10 @@ is to help find which commit in the repo matches the copy of the repo, when the 
 the repo doesn't have history information.
 
 Requires `git`.
+
+## setup-gh-completion.sh
+
+This script sets up bash completion for the github command line.
+
+Requires `gh` and root access.
+
